@@ -1,7 +1,7 @@
 {
   "name": "yasmuru/ys-tinify-laravel",
   "type": "library",
-  "description": "Tinify API support with laravel",
+  "description": "Tinify API support with laravel - update for support Laravel 6",
   "keywords": ["tinify","tinypng", "laravel"],
   "license": "MIT",
   "authors": [
